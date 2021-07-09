@@ -1,0 +1,13 @@
+C:\Users\Taha1\source\repos\notdefterii\notdefterii\bin\Debug\netcoreapp3.1\notdefterii.exe
+C:\Users\Taha1\source\repos\notdefterii\notdefterii\bin\Debug\netcoreapp3.1\notdefterii.deps.json
+C:\Users\Taha1\source\repos\notdefterii\notdefterii\bin\Debug\netcoreapp3.1\notdefterii.runtimeconfig.json
+C:\Users\Taha1\source\repos\notdefterii\notdefterii\bin\Debug\netcoreapp3.1\notdefterii.runtimeconfig.dev.json
+C:\Users\Taha1\source\repos\notdefterii\notdefterii\bin\Debug\netcoreapp3.1\notdefterii.dll
+C:\Users\Taha1\source\repos\notdefterii\notdefterii\bin\Debug\netcoreapp3.1\notdefterii.pdb
+C:\Users\Taha1\source\repos\notdefterii\notdefterii\obj\Debug\netcoreapp3.1\notdefterii.csproj.AssemblyReference.cache
+C:\Users\Taha1\source\repos\notdefterii\notdefterii\obj\Debug\netcoreapp3.1\notdefterii.AssemblyInfoInputs.cache
+C:\Users\Taha1\source\repos\notdefterii\notdefterii\obj\Debug\netcoreapp3.1\notdefterii.AssemblyInfo.cs
+C:\Users\Taha1\source\repos\notdefterii\notdefterii\obj\Debug\netcoreapp3.1\notdefterii.csproj.CoreCompileInputs.cache
+C:\Users\Taha1\source\repos\notdefterii\notdefterii\obj\Debug\netcoreapp3.1\notdefterii.dll
+C:\Users\Taha1\source\repos\notdefterii\notdefterii\obj\Debug\netcoreapp3.1\notdefterii.pdb
+C:\Users\Taha1\source\repos\notdefterii\notdefterii\obj\Debug\netcoreapp3.1\notdefterii.genruntimeconfig.cache
